@@ -1,5 +1,9 @@
 import Link from "next/link";
 
+// const metadata = {
+//   title: "Harvey | Personal Site",
+// }
+
 export default function Home() {
   return(
     <main className="p-8">
